@@ -7,6 +7,22 @@
         border-radius: $borderRadius;
         //position: relative;
         overflow: hidden;
+
+        .content{
+            padding: 10px;
+        }
+        a {
+            background: $color-3;
+            padding: 1px 2px;
+            margin: 30px;
+            border-radius: $borderRadius;
+
+            &:hover {
+              background: $color-4;
+           }  
+         }
+
     }
+
 
 }    
