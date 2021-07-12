@@ -8,14 +8,13 @@ const OtherSkills = () => {
                    <ul>
                        <li><i className="fas fa-check-square"></i>Eclipse</li>
                        <li><i className="fas fa-check-square"></i>Github</li>
-                       <li><i className="fas fa-check-square"></i>Gimp</li>
+                       <li><i className="fas fa-check-square"></i>Visual Studio Code</li>
                        <li><i className="fas fa-check-square"></i>phpMyAdmin</li>
                    </ul>
                    <ul>
-                       <li><i className="fas fa-check-square"></i>Visual Studio Code</li>
                        <li><i className="fas fa-check-square"></i>R</li>
+                       <li><i className="fas fa-check-square"></i>Gimp</li>
                        <li><i className="fas fa-check-square"></i>Oracle</li>
-                       <li><i className="fas fa-check-square"></i>GitBash</li>
                    </ul>
                </div>
            </div>
