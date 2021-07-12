@@ -50,8 +50,8 @@ a:visited {
   display: flex;
 
   @media screen and (max-width: 850px){
-    display: block !important;
-  }
+     display: block !important;
+   }
 }
 .homeContent, .knowledgesContent, .projectsContent, .contactContent {
   margin-left: .4rem;

@@ -1,7 +1,8 @@
 .home {
 
     .homeContent {
-      background: linear-gradient(115deg, $color-1 50%, transparent 100%);
+      //background: linear-gradient(115deg, $color-1 50%, transparent 100%);
+      background-color: $color-1;
       min-height: $minHeight;
       width: 100%;
       min-height: 500px;
@@ -58,6 +59,12 @@
   @media screen and (max-width: 850px){
     .homeContent {
       margin: 0 !important;
+    }
+    h1 {
+      font-size: 3rem !important;
+    }
+    h2 {
+      font-size: 1.8rem !important;
     }
   }
   @media screen and (max-width:580px){
