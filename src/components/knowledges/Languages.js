@@ -9,7 +9,7 @@ class Languages extends Component {
             {id:3, value: "node JS", xp:0.6},
             {id:4, value: "Css", xp:0.5},
             {id:5, value: "React", xp:0.4},
-            {id:6, value: "Php", xp:0.3}
+            {id:6, value: "Php", xp:0.5}
         ],
         bdd: [
             {id:1, value: "SQL", xp:0.6},

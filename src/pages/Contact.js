@@ -16,7 +16,7 @@ const Contact = () => {
                         </li>
                         <li>
                             <i className="far fa-envelope"></i>
-                            <span className="clickInput">berthet-fabrice@hotmail.fr</span>
+                            <span className="clickInput">faberthet35@gmail.com</span>
                         </li>
                         <li>
                             <i className="fas fa-mobile-alt"></i>
